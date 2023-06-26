@@ -31,7 +31,7 @@ Dancing Outside The Well의 약자 dotW 입니다
 개인 PC에서 여러개의 빌드를 실행 해 녹화시 프레임 드랍이 있었습니다<br/>
 보시기엔 불편하겠지만 게임 자체 이해엔 무리가 없을것이라 생각됩니다.
 
-클릭시 유튜브 링크로 이동합니다!
+클릭시 유튜브 링크로 이동합니다!<br/>
 [![Video Label](http://img.youtube.com/vi/bQlEwzqJPGw/0.jpg)](https://youtu.be/bQlEwzqJPGw)
 
 
